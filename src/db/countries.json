@@ -1,0 +1,39 @@
+{
+  "unitedKingdom": [
+    "barking and dagenham",
+    "barnet",
+    "bexley",
+    "brent",
+    "bromley",
+    "camden",
+    "croydon",
+    "ealing",
+    "enfield",
+    "greenwich",
+    "hackney",
+    "hammersmith and fulham",
+    "harrow",
+    "havering",
+    "hillingdon",
+    "hounslow",
+    "islington",
+    "kensington and chelsea",
+    "kingston upon thames",
+    "lambeth",
+    "lewisham",
+    "merton",
+    "newham",
+    "redbridge",
+    "richmond upon thames",
+    "southwark",
+    "sutton",
+    "tower hamlets",
+    "waltham forest",
+    "wandsworth",
+    "westminster"
+  ],
+
+  "unitedStates": ["new york", "boston"],
+
+  "india": ["goa", "kerala", "bangalore"]
+}
