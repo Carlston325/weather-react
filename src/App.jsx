@@ -14,3 +14,6 @@ function App() {
 }
 
 export default App;
+
+// npm start
+// npx json-server -p3100 -w src/db/coordinates.json
